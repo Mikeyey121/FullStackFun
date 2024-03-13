@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("APIfun")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e27383738e161a5acd179becf8c70ace4c925a76")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+96e9580180a9f097d0aad422ee92248da22606fe")]
 [assembly: System.Reflection.AssemblyProductAttribute("APIfun")]
 [assembly: System.Reflection.AssemblyTitleAttribute("APIfun")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
